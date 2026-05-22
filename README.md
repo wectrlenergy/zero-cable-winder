@@ -79,8 +79,8 @@ Recommended print orientation:
     cable_winder_small.stl
     cable_winder_big.stl
 
-/STEP
-    cable_winder.step
+/SKP
+    cable_winder.skp
 
 /Images
     hero.jpg
